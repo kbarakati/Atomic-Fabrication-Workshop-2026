@@ -101,7 +101,7 @@ menu_icon: clock
     <td rowspan="3">9:00 AM</td>
     <td rowspan="3">10:00 AM</td>
     <td colspan="4"><strong>Session 1: Opening and Vision</strong></td>
-    <td class="center green" colspan="2">Chair: Adina Lucan-Maier</td>
+    <td class="center green" colspan="2">Chair: Adina Luican-Mayer</td>
   </tr>
 
   <tr>

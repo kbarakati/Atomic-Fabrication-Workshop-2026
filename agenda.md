@@ -294,7 +294,7 @@ menu_icon: clock
   <tr class="yellow">
     <td rowspan="6">10:20 AM</td><td rowspan="6">12:00 PM</td>
     <td colspan="4"><strong>Session 6: Molecules and AI assisted synthesis</strong></td>
-    <td class="center green" colspan="2">Chair: Richard Liu</td>
+    <td class="center green" colspan="2">Chair: Benjamin Lawrie</td>
   </tr>
 
   <tr>
